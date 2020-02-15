@@ -1,0 +1,5 @@
+repositories:
+  blinkt:
+    type: git
+    url: git@github.com:jpace121/j7s-blinkt.git
+    version: master
